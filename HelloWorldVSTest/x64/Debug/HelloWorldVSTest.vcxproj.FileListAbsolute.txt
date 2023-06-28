@@ -1,0 +1,2 @@
+C:\Users\matth\source\repos\CS1575-CPT281\HelloWorldVSTest\x64\Debug\HelloWorldVSTest.exe
+C:\Users\matth\source\repos\HelloWorldVSTest\x64\Debug\HelloWorldVSTest.exe

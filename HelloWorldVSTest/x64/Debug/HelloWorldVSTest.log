@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(48,13): error C3861: 'arr': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(49,22): error C3861: 'arr': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(50,13): error C3861: 'arr': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(52,9): error C3861: 'capacity': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(53,9): error C3861: 'num_of_items': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(54,13): error C3861: 'capacity': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(55,13): error C3861: 'arr': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(55,25): error C3861: 'capacity': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(56,36): error C2065: 'num_of_items': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(56,36): error C3861: 'num_of_items': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(57,17): error C3861: 'arr': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(48,13): error C2065: 'arr': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(49,22): error C2065: 'arr': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(50,13): error C2065: 'arr': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(52,9): error C2065: 'capacity': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(53,9): error C2065: 'num_of_items': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(54,13): error C2065: 'capacity': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(55,13): error C2065: 'arr': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(55,25): error C2065: 'capacity': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(57,17): error C2065: 'arr': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(67,5): error C3861: 'arr': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(67,5): error C2065: 'arr': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(74,9): error C3861: 'arr': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(74,25): error C3861: 'arr': identifier not found
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(74,9): error C2065: 'arr': undeclared identifier
+C:\Users\matth\source\repos\HelloWorldVSTest\Ordered_Vector.h(74,25): error C2065: 'arr': undeclared identifier
