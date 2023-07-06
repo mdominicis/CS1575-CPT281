@@ -46,10 +46,16 @@ public:
         @param head: a pointer to the head node of the list
         @param target: value to search (and remove) in the list
     */
-    static void remove_first_occurrence(List_Node* head, int target) {
+    static void remove_first_occurrence(List_Node*& head, int target) {
         // Please copy this code to Canvas answer textbox.
         // Please add your code here to solve the problem.
-        List_Node* current = head;
+        if(head->val==target){
+            List_Node* to_be_deletedhead = head;
+            head = head->next;
+            delete to_be_deletedhead;
+            return;
+        }
+    	List_Node* current = head;
         while (current->next && current->next->val != target){
             current = current->next;
         }
@@ -68,7 +74,7 @@ public:
         // Please copy this code to Canvas answer textbox.
         // Please add your code here to solve the problem.
         vector<int>maxes = { head->val,head->next->val };
-        List_Node* current = head;
+        List_Node* current = head->next->next;
         while(current){
             if (maxes.at(1) > maxes.at(0)) { std::swap(maxes.at(0), maxes.at(1)); }
             if(current->val>maxes.at(1)){
