@@ -5,7 +5,7 @@
 #include <string>
 using namespace std;
 int main() {
-	D_List_Node* head = new D_List_Node(40);
+	/*D_List_Node* head = new D_List_Node(40);
 	head->next = new D_List_Node(500);
 	head->next->next = new D_List_Node(400);
 	head->next->next->next = new D_List_Node(30);
@@ -13,7 +13,7 @@ int main() {
 	while (current) {
 		cout << current->val;
 		current = current->next;
-	}
+	}*/
 
 
 
@@ -36,30 +36,30 @@ int main() {
 		current = current->next;
 	}
 	cout << endl;*/
-	/*Question 4
-	 *list<string>li = { "Tom","Dick","Harry","Sam" };
+	//Question 4
+	list<string>li = { "Tom","Dick","Harry","Sam" };
 	list<string>::iterator it = li.begin();
 	it++;
 	it++;
-
+	cout << *it << endl;
 	it++;
+	cout << *it << endl;
 
-
-	it = li.insert(it, "Lisa");
-
+	it=li.insert(it, "Lisa");
+	cout << *it << endl;
 	it --;
 	it--;
-
+	cout << *it << endl;
 	it = li.erase(it);
 	
 	
 	
 	cout << *(it++)<<endl;
-	cout << *it<<endl;
+	/*cout << *it<<endl;
 	for (list<string>::iterator i = li.begin(); i != li.end(); i++) {
 		cout << *i;
-	}
-	cout << endl;*/
+	}*/
+	cout << endl;
 
 	/*Question 5
 	vector<char>vec = { 'x','y','z','w'};

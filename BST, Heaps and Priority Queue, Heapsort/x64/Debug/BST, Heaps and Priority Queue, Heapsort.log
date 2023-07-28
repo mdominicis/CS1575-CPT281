@@ -1,0 +1,14 @@
+﻿  Algorithms.h
+  main.cpp
+C:\Users\matth\source\repos\CS1575-CPT281\BST, Heaps and Priority Queue, Heapsort\Priority_Queue.h(46,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\matth\source\repos\CS1575-CPT281\BST, Heaps and Priority Queue, Heapsort\Priority_Queue.h(44,44): message : while compiling class template member function 'void Priority_Queue<int>::push(const T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\matth\source\repos\CS1575-CPT281\BST, Heaps and Priority Queue, Heapsort\main.cpp(9,9): message : see the first reference to 'Priority_Queue<int>::push' in 'main'
+C:\Users\matth\source\repos\CS1575-CPT281\BST, Heaps and Priority Queue, Heapsort\main.cpp(8,22): message : see reference to class template instantiation 'Priority_Queue<int>' being compiled
+C:\Users\matth\source\repos\CS1575-CPT281\BST, Heaps and Priority Queue, Heapsort\Priority_Queue.h(46,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\matth\source\repos\CS1575-CPT281\BST, Heaps and Priority Queue, Heapsort\Priority_Queue.h(50,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  BST, Heaps and Priority Queue, Heapsort.vcxproj -> C:\Users\matth\source\repos\CS1575-CPT281\BST, Heaps and Priority Queue, Heapsort\x64\Debug\BST, Heaps and Priority Queue, Heapsort.exe
